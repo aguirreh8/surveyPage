@@ -1,0 +1,19 @@
+main {
+	max-width: 80%;
+	margin: 0 auto;
+	margin-top: 5em; 
+	box-shadow: 5px 8px 8px #888888;
+	border: solid 1px black;
+}
+
+#title {
+	text-align: center;
+}
+
+#description {
+	text-align: center;
+}
+
+#form-holder {
+	margin: 20px;
+}
