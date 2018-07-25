@@ -1,5 +1,5 @@
 main {
-	max-width: 80%;
+	max-width: 60%;
 	margin: 0 auto;
 	margin-top: 5em; 
 	box-shadow: 5px 8px 8px #888888;
@@ -16,4 +16,9 @@ main {
 
 #form-holder {
 	margin: 20px;
+}
+
+.input-holder {
+	position: relative;
+	text-align: center;
 }
