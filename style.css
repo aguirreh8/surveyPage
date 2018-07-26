@@ -20,5 +20,15 @@ main {
 
 .input-holder {
 	position: relative;
+}
+
+.input-holder.submit {
 	text-align: center;
+}
+
+.labels {
+	display: inline-block;
+	width: 40%;
+	text-align: right;
+	padding-right: 10px;
 }
